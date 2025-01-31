@@ -1,0 +1,21 @@
+---
+title: "Areas"
+author: "Marc Donato Merí"
+date: "2025-01-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Areas
+
+Calcula el area
+
+```{r}
+r <- 0.5
+Area <- pi*r^2
+```
+
+
