@@ -20,6 +20,9 @@ Area <- pi*r^2
 
 
 ## Area 2
+
+Calcula el area
+
 ```{r}
 l <- 2
 area <- l * l
