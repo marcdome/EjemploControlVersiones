@@ -37,3 +37,13 @@ b <- 2
 h <- 4
 area2 <- (b * h)/2
 ```
+
+## Area 4
+
+Calcula el area del trapezio
+```{r}
+b1 <- 6
+b2 <- 4
+h <- 3
+
+area4 <- (b1 + b2) * h / 2
