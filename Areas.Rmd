@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Areas
 
-Calcula el area
+Calcula el area 
 
 ```{r}
 r <- 0.5
@@ -21,7 +21,7 @@ Area <- pi*r^2
 
 ## Area 2
 
-Calcula el area
+Calcula el area del cuadrado
 
 ```{r}
 l <- 2
@@ -30,7 +30,7 @@ area <- l * l
 
 ## Area 3
 
-Calcula el area
+Calcula el area del triangulo
 
 ```{r}
 b <- 2
