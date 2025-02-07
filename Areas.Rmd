@@ -27,4 +27,13 @@ Calcula el area
 l <- 2
 area <- l * l
 
+
+## Area 3
+
+Calcula el area
+
+```{r}
+b <- 2
+h <- 4
+area2 <- (b * h)/2
 ```
