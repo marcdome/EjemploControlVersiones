@@ -26,7 +26,7 @@ Calcula el area
 ```{r}
 l <- 2
 area <- l * l
-
+```
 
 ## Area 3
 
